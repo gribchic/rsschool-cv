@@ -1,2 +1,2 @@
 # rsschool-cv
-[My CV](https://gribchic.github.io/rsschool-cv/)
+[My CV](https://gribchic.github.io/rsschool-cv/cv)
